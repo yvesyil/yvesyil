@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Emfetch
 - 🌱 I’m currently learning MERN stack and Golang
-- 💬 Ask me about Javascript
+- 💬 Ask me about Javascript or Python
 - 👯 I’m looking to collaborate on anything 😁
 
 ### 🛠 WIP
