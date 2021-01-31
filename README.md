@@ -3,7 +3,8 @@
 > I'm Yigit. Nice to meet you too.
 
 - 🔭 I’m currently working on Emfetch
-- 🌱 I’m currently learning MERN stack and Golang
+- 🌱 I’m currently learning MERN stack, server programming and distributed systems
+- 📚 My long term learning goals are deep learning, blockchain systems, and microservices
 - 💬 Ask me about Javascript or Python
 - 👯 I’m looking to collaborate on anything 😁
 
