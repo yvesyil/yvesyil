@@ -3,6 +3,7 @@
 > I'm Yigit. Nice to meet you too.
 
 - 🔭 I’m currently working on Emfetch
+- 🤔 I’m looking for help with Hamstertalk's UI
 - 🌱 I’m currently learning MERN stack, server programming, and distributed systems
 - 📚 My long term learning goals are deep learning, blockchain systems, and microservices
 - 💬 Ask me about Javascript or Python
