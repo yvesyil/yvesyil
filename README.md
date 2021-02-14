@@ -1,6 +1,6 @@
 ### Welcome 🦊
 
-> I'm Yigit. Nice to meet you too.
+> I'm Yiğit. Nice to meet you too.
 
 - 🔭 I’m currently working on Emfetch
 - 🤔 I’m looking for help with Hamstertalk's UI
