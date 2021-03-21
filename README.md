@@ -1,4 +1,4 @@
-### Welcome 🎎
+### 🎎 Welcome 
 
 > I'm Yiğit. Nice to meet you too.
 
