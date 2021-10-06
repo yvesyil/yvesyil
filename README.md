@@ -9,9 +9,8 @@
 
 ### 🛠 WIP
 
-- SrsBotv2 - Currently @ Testing
 - Hamstertalk 🐹 - Currently @ Client implementation
-- Emfetch - Currently @ Query language implementation
+- Seijo - Currently @ Auth implementation
 
 <!--
 **HawkBrave/HawkBrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
