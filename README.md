@@ -1,6 +1,6 @@
 ## 🎎 Welcome 
 
-> I'm Yves. Nice to meet you too.
+> I'm Yigit but you can call me Yves. Nice to meet you too.
 
 - 🌱 I’m currently learning distributed systems
 - 📚 My long term learning goals are deep learning, blockchain systems, and microservices
