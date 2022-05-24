@@ -1,7 +1,3 @@
-## 🎎 Welcome 
-
-> I'm Yiğit but you can call me Yves. Nice to meet you too.
-
 <!--
 **HawkBrave/HawkBrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
