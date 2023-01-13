@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 a software engineer interested in web development & systems-level software.
 
 currently working on
-- claw.js, a gpu accelerated linear algebra library for node.js, written in c. (in private atm)
+- claw.js, a gpu accelerated linear algebra library for node.js, written in c. (currently private)
 - [used cars data project](https://github.com/yvesyil/car-data-project)
 - [my personal website/portfolio](https://github.com/yvesyil/yvesyil.github.io)
 
