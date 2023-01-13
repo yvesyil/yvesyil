@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # yves yil
-> ipa: /iv yɪl/
+> ipa: [/iv jɪl/](http://ipa-reader.xyz/?text=iv%20j%C9%AAl)
 > eng: [eev yil]
 
 a software engineer interested in web development & systems-level software.
