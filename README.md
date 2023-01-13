@@ -24,7 +24,7 @@ currently working on
 - [used cars data project](https://github.com/yvesyil/car-data-project)
 - [my personal website/portfolio](https://github.com/yvesyil/yvesyil.github.io)
 
-
+<br>
 _realname: yiğit yılmaz [/jiˈit jɯɫˈmaz/](http://ipa-reader.xyz/?text=ji%CB%88it%20j%C9%AF%C9%AB%CB%88maz&voice=Filiz)_
 <!--
 
