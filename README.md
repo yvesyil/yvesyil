@@ -1,5 +1,5 @@
 <!--
-**HawkBrave/HawkBrave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yvesyil/yvesyil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +11,30 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+# yves yil
+> ipa: /iv yɪl/
+> eng: [eev yil]
+
+a software engineer interested in web development & systems-level software.
+
+currently working on
+- claw.js, a gpu accelerated linear algebra library for node.js, written in c. (in private atm)
+- [used cars data project](https://github.com/yvesyil/car-data-project)
+- [my personal website/portfolio](https://github.com/yvesyil/yvesyil.github.io)
+
+<!--
+
+experienced with
+- web development (fullstack)
+- gpu apis (opengl, webgl, opencl)
+
+main languages
+- typescript/javascript
+- python3
+- c99
+
+currently learning
+- 
 -->
