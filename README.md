@@ -21,7 +21,7 @@ a software engineer interested in web development & systems-level software.
 
 currently working on
 - [claw.js](https://github.com/tussoftwaredesign/claw-js), a gpu accelerated linear algebra library for node.js, written in c.
-- [used cars data project](https://github.com/yvesyil/car-data-project)
+- [neural-net-api](https://github.com/yvesyil/neural-net-api), a REST API that exposes an MNIST classifier neural network written from scratch.
 - [my personal website/portfolio](https://github.com/yvesyil/yvesyil.github.io)
 
 <br>
