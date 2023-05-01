@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 > ipa: [/iv jɪl/](http://ipa-reader.xyz/?text=iv%20j%C9%AAl)
 > eng: [eev yil]
 
-a software engineer interested in web development & systems-level software.
+a software engineer interested in web development & system level software.
 
 currently working on
 - [claw.js](https://github.com/tussoftwaredesign/claw-js), a gpu accelerated linear algebra library for node.js, written in c.
