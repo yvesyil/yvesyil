@@ -13,17 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# yves yil
+# Yves Yil
 > ipa: [/iv jɪl/](http://ipa-reader.xyz/?text=iv%20j%C9%AAl)
 > eng: [eev yil]
 
-a software engineer interested in web development & system level software.
+a software engineer interested in web development.
 
-currently working on
-- [claw.js](https://github.com/tussoftwaredesign/claw-js), a gpu accelerated linear algebra library for node.js, written in c.
-- [neural-net-api](https://github.com/yvesyil/neural-net-api), a REST API that exposes an MNIST classifier neural network written from scratch.
-- [introspection](https://github.com/yvesyil/introspection), a fullstack compiler explorer application.
-
+currently working on some projects which are too early to talk about...
 <br>
 
 _realname: yiğit yılmaz [/jiˈit jɯɫˈmaz/](http://ipa-reader.xyz/?text=ji%CB%88it%20j%C9%AF%C9%AB%CB%88maz&voice=Filiz)_
